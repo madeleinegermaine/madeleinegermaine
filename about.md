@@ -3,28 +3,24 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Madeleine is an awesome friend and an exemplary human being.
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+She has many talents, including:
 
-There are currently two themes built on Poole:
+- dancing
+- rapping/singing
+- acting
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+And more!
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+## Even more about Madeleine
 
-## Setup
+Some fun facts about Madeleine include:
 
-Some fun facts about the setup of this project include:
+- She can paddle a canoe in a thunderstorm
+- She has a black belt in napping
+- She can write a quip faster than you can think one!
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+Have questions or suggestions? Feel free to contact Madeleine.
 
 Thanks for reading!

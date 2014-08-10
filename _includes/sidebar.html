@@ -4,7 +4,7 @@
 		<img src="{{ site.BASE_PATH }}/assets/media/madeleine.jpg" class="img-circle" />
 	</a>
 	<h3 class="title">
-        <a href="{{ site.BASE_PATH }}/">{{ site.title }}</a>
+        <a href="{{ site.BASE_PATH }}/">Madeleine Germaine</a>
     </h3>
 </header>
 
@@ -13,6 +13,15 @@
 	{{ site.author.bio }}
 </div>
 {% endif %}
+
+<nav class="top-level" role="navigation">
+  <ul>
+    <li><a href="{{ site.BASE_PATH}}/">Home</a></li>
+			<li><a href="{{ site.BASE_PATH }}/about.html">About</a></li>
+			<li><a href="{{ site.BASE_PATH}}/{{ site.categories_path }}">Categories</a></li>
+			<li class="divider"></li>
+  </ul>
+</nav>
 
 <div id="contact-list" class="text-center">
 	<ul class="list-unstyled list-inline">
@@ -37,8 +46,6 @@
 			</a>
 		</li>
 		{% endif %}
-	</ul>
-	<ul id="contact-list-secondary" class="list-unstyled list-inline">
 		{% if site.author.pinterest %}
 		<li>
 			<a class="btn btn-default btn-sm" href="https://pinterest.com/{{ site.author.pinterest }}">
