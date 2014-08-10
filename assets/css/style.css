@@ -83,7 +83,6 @@ article .share .gplus:hover {
 
 .page-header {
 	color: #2C3E50;
-  font-size: 1.3em;
 	<!-- text-shadow: 1px 1px 1px rgba(150, 150, 150, 1); -->
 }
 
@@ -114,6 +113,7 @@ article img { max-width: 100%; }
 
 h1 {
   margin-left: 50px;
+    font-size: 2em;
 }
 
 h1,h2,h3,h4,h5,h6 { font-family: 'Ubuntu', sans-serif; }
