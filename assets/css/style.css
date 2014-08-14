@@ -46,19 +46,19 @@ nav.top-level ul {
   padding-left: 0;
 }
 
-nav.top-level ul li {
+nav.top-level ul li, #contact-list ul li {
   list-style: none;
   text-align: center;
   margin-bottom: 5px;
   font-size: 16px;
 }
 
-.top-level a {
-  colour: #6A8FB5;
+nav.top-level ul li a, #contact-list ul li a {
+  color: #E0E0E0;
 }
 
-.top-level a:hover{
-  colour: #90A959;
+nav.top-level ul li a:hover, #contact-list ul li a:hover {
+  color: #6a9fb5;
   text-decoration: none;
 }
 
@@ -80,46 +80,16 @@ a.nav-link:hover { color: #B0B0B0 }
 	margin-bottom: 10px;
 }
 
-#contact-list li .fa,
-article .share .btn {
-	-o-transition:color .2s ease-out, background 1s ease-in;
-  -ms-transition:color .2s ease-out, background 1s ease-in;
-  -moz-transition:color .2s ease-out, background 1s ease-in;
-  -webkit-transition:color .2s ease-out, background 1s ease-in;
-  transition:color .2s ease-out, background 1s ease-in;
-}
-#contact-list li:hover .fa-twitter,
-article .share .twitter:hover {
-	color: #00ACEE;
-	border-color: #00ACEE;
-}
-#contact-list li:hover .fa-linkedin {
-	color: #1D87BD;
-}
-#contact-list li:hover .fa-envelope {
-	color: #E93E30;
-}
-#contact-list li:hover .fa-pinterest {
-	color: #CC2127;
-}
-#contact-list li:hover .fa-rss {
-	color: #e74c3c;
-}
-article .share .facebook:hover {
-	color: #43609C;
-	border-color: #43609C;
-}
-article .share .gplus:hover {
-	color: #C13929;
-	border-color: #C13929;
-}
-
 #contact-list-secondary {
 	padding-bottom: 10px;
 }
 
 /* ## INDEX ## */
 
+.promo {
+  float:left;
+  margin: 0 10px 10px 0;
+}
 
 /* ## PAGES ## */
 
@@ -146,24 +116,45 @@ article .share .gplus:hover {
   color: #777
 }
 
-article.home div a, article.home pre a { color: #6A9FB5; }
-article.home div a:hover, article.home pre a:hover { color: #90A959; text-decoration: none; }
+article.home div a, article.home pre a { color: #6a9fb5; }
+article.home div a:hover, article.home pre a:hover { color: #8f5536; text-decoration: none; }
 article img { max-width: 100%; }
 
 /* ## HEADINGS ## */
 
-.page-header h1 {
-    font-size: 3em;
+@font-face {
+    font-family: 'source_sans_proregular';
+    src: url('/public/fonts/sourcesanspro-regular-webfont.eot');
+    src: url('/public/fonts/sourcesanspro-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/public/fonts/sourcesanspro-regular-webfont.woff') format('woff'),
+         url('/public/fonts/sourcesanspro-regular-webfont.ttf') format('truetype'),
+         url('/public/fonts/sourcesanspro-regular-webfont.svg#source_sans_proregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
 }
 
-h1,h2,h3,h4,h5,h6 { font-family: 'Arial', sans-serif; }
+@font-face {
+    font-family: 'source_sans_prolight';
+    src: url('/public/fonts/sourcesanspro-light-webfont.eot');
+    src: url('/public/fonts/sourcesanspro-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/public/fonts/sourcesanspro-light-webfont.woff') format('woff'),
+         url('/public/fonts/sourcesanspro-light-webfont.ttf') format('truetype'),
+         url('/public/fonts/sourcesanspro-light-webfont.svg#source_sans_prolight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1 { font-family: 'source_sans_proregular', 'Arial', sans-serif; }
+
+h2,h3,h4,h5,h6 { font-family: 'source_sans_prolight', 'Arial', sans-serif; }
+
 article.home h1,
 article.home h2,
 article.home h3,
 article.home h4,
 article.home h5,
 article.home h6 {
-	font-family: 'Arial', sans-serif;
+	font-family: 'source_sans_prolight', 'Arial', sans-serif;
 	color: #202020;
 }
 
@@ -171,15 +162,21 @@ article.home h1 a,
 article.home h2 a,
 article.home h3 a,
 article.home h4 a {
-	color: #6A9FB5;
+	color: #6a9fb5;
 }
 article.home h1 a:hover,
 article.home h2 a:hover,
 article.home h3 a:hover,
 article.home h4 a:hover {
-	color: #90A959;
+	color: #8f5536;
   text-decoration: none;
 }
+
+.page-header h1 { 
+    font-family: 'source_sans_prolight', 'Arial', sans-serif;
+    font-size: 3em;
+}
+
 
 .author .author-image {
   float: left;
