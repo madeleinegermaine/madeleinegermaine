@@ -10,11 +10,15 @@ body{
 .sidebar {
 	position: fixed;
 	top: 0px;
-	padding-top: 10%;
-	background-color: #303030;
+	padding-top: 4%;
+	background-color: #151515;
 	color: #F5F5F5;
 }
 
+
+.sidebar h1 {
+    font-size: 2.2em;
+}
 .sidebar-header {
 	text-align: center;
 	margin-bottom: 10px;
@@ -114,10 +118,13 @@ article .share .gplus:hover {
 	padding-bottom: 10px;
 }
 
+/* ## INDEX ## */
+
+
 /* ## PAGES ## */
 
 .page-header {
-	color: #303030;
+	color: #151515;
   <!-- padding-left: 5%; -->
 	<!-- text-shadow: 1px 1px 1px rgba(150, 150, 150, 1); -->
 }
@@ -145,19 +152,19 @@ article img { max-width: 100%; }
 
 /* ## HEADINGS ## */
 
-h1 {
-    font-size: 3.7em;
+.page-header h1 {
+    font-size: 3em;
 }
 
-h1,h2,h3,h4,h5,h6 { font-family: 'Ubuntu', sans-serif; }
+h1,h2,h3,h4,h5,h6 { font-family: 'Arial', sans-serif; }
 article.home h1,
 article.home h2,
 article.home h3,
 article.home h4,
 article.home h5,
 article.home h6 {
-	font-family: 'Ubuntu', sans-serif;
-	color: #555555;
+	font-family: 'Arial', sans-serif;
+	color: #202020;
 }
 
 article.home h1 a,
@@ -171,6 +178,7 @@ article.home h2 a:hover,
 article.home h3 a:hover,
 article.home h4 a:hover {
 	color: #90A959;
+  text-decoration: none;
 }
 
 .author .author-image {
