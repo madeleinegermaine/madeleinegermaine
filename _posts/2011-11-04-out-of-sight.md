@@ -1,10 +1,16 @@
 ---
 layout: post
-title: Out of sight
-categories: [fiction]
-tags: [2011, fiction, young adult, feminism]
+title: Out of Sight
+categories: 
+  - fiction
+tags: 
+  - 2011
+  - fiction
+  - young adult
+  - feminism
 description: Two teenage girls in the woods. YA fiction.
 fullview: false
+published: true
 ---
 
 “This sucks, Aria. Let’s go.”
