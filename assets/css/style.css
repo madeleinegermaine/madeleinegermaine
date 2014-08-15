@@ -160,6 +160,15 @@ a.nav-link:hover { color: #B0B0B0 }
   margin: 0 10px 10px 0;
 }
 
+.listing ul {
+	padding-left:0;
+}
+
+.listing ul li {
+	list-style:none;
+}
+
+
 /* ## PAGES ## */
 
 .page-header {
