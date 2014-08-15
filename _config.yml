@@ -1,6 +1,6 @@
 # visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
 
-paginate: 6
+paginate: 10
 paginate_path: "page:num"
 exclude: ["README.md"]
 pygments: true
