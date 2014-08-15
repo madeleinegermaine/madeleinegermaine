@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Canadian Women in Engineering - Claudette Mackay Lassonde and Claire Deschênes"
+title: Canadian Women in Engineering
 categories: 
   - article
   - commission
