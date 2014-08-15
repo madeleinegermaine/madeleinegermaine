@@ -1,9 +1,10 @@
-﻿---
+---
 layout: post
 title: Out of sight
 categories: [fiction]
 tags: [2011, fiction, young adult, feminism]
 description: Two teenage girls in the woods. YA fiction.
+fullview: false
 ---
 
 “This sucks, Aria. Let’s go.”
@@ -313,4 +314,5 @@ Julie was not sure how to answer that question. “It was ok. I can’t really s
 
 The second bell rang and before Julie could answer, Aria kissed her on the cheek and Aria ran off to class. “See you, Ju-jube!” 
 
-By the time Julie called out Aria was way down the hall, out of sight.
+By the time Julie called out, Aria was way down the hall, out of sight.
+  
