@@ -3,7 +3,7 @@ layout: post
 title: Least Expecting
 categories: [personal]
 tags: []
-fullview: true
+fullview: false
 ---
 
 Family, memory, mythology, violence.
