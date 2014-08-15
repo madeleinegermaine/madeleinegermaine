@@ -1,0 +1,30 @@
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+
+paginate: 6
+paginate_path: "page:num"
+exclude: ["README.md"]
+pygments: true
+markdown: kramdown
+
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: Portfolio
+
+description: portfolio of the writer, editor, and fearless explorer
+author:
+  name: Madeleine Germaine
+  email: bluteau@gmail.com
+  github: madeleinegermaine
+  twitter: bluteau
+  bio: Madeleine Germaine is a booty-shaking, canoe-camping, soul-surfing writer and artist
+  email_md5: 5C7140290D8598A15AFDCF0847D20799
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+
+BASE_PATH:
