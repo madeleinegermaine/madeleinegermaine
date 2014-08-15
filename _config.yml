@@ -12,7 +12,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: Portfolio
+      title:
 
 description: portfolio of the writer, editor, and fearless explorer
 author:
