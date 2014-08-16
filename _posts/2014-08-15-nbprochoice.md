@@ -18,9 +18,9 @@ In April 2014, the New Brunswick Morgentaler Clinic announced that they would be
 
 Rallies were organized across the country in solidarity with the people of New Brunswick. 
 
-I organized the rally in Ottawa, Ontario, and was responsible for communications, and wrote the press release and introductory remarks (see below). 
+I organized the Ottawa, Ontario rally. We had a turn out of approximately 150 participants on a rainy day and were covered by local television stations. 
 
-We had a turn out of approximately 150 participants on a rainy day and were covered by local television stations.
+I wrote the press release and introductory remarks seen below. 
 
 ###Press Release###
 
