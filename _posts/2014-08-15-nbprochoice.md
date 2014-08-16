@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #NBProChoice
+title: NBProChoice
 categories: [communications]
 tags: [activism, feminism, communications, 2014]
 description: Activism in solidarity with the New Brunswick Morgentaler Clinic
