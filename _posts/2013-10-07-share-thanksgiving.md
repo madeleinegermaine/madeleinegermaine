@@ -13,9 +13,9 @@ fullview: false
 published: true
 ---
 
-Share Thanksgiving is an organization that pairs new Canadians with established Canadian families to share a holiday meal. I was a City Leader for the program's first year in Ottawa, Ontario. I ran a successful communications campaign to promote the program that resulted in coverage from local television, radio and print media. 
+I was an Ottawa City Leader for Share Thanksgiving, an organization that pairs new Canadians with established Canadian families for a holiday meal. I ran a successful communications campaign that resulted in coverage from all local television, radio and print media. 
 
-We were able to match over 80 new Canadians, a very high number for the program's first year.
+We were able to match over 80 new Canadians, a very high number for the program's first year in the city.
 
 Some media clips from Share Thanksgiving Ottawa, 2013
 
