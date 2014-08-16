@@ -17,7 +17,7 @@ published: true
 
 I ran communications for Ottawa's first [Share Thanksgiving](http://www.sharethanksgiving.ca/), an event that pairs new Canadians with established Canadian families for a holiday meal. Our campaign resulted in coverage from local television, radio and print media. 
 
-Thanks to our media coverage, recruitment was a great success. We matched 100 new Canadian families in our first year in Ottawa.
+Recruitment was a great success, and we matched 100 new Canadian families in our first year in Ottawa.
 
 ###Media clips###
 
