@@ -197,7 +197,7 @@ article.home div a, article.home pre a { color: #6a9fb5; }
 article.home div a:hover, article.home pre a:hover { color: #8f5536; text-decoration: none; }
 article img { max-width: 100%; }
 
-#archive ul {
+section#archive ul {
 	padding-left:none;
 }
 
