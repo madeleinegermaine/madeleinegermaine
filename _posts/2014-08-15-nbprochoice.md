@@ -12,7 +12,7 @@ description: Activism in solidarity with the New Brunswick Morgentaler Clinic
 published: true
 ---
 
-###Ottawa Solidarity Rally for New Brunswick Morgentaler Clinic, April 2014###
+###Ottawa Solidarity Rally for New Brunswick Morgentaler Clinic###
 
 In April 2014, the Fredericton, New Brunswick Morgentaler Clinic announced that they would be forced to close their doors due to lack of funding. 
 
