@@ -24,6 +24,10 @@ I wrote the press release and introductory remarks seen below.
 
 ###Press Release###
 
+**NEWS**
+For immediate release
+24 April 2014
+
 **Pro-Choice Activists Protest New Brunswick Morgentaler Clinic Closure**
 
 **Ottawa, ON** - On Saturday, April 26, at 2 PM, 200 local pro-choice activists are expected to rally on Parliament Hill to protest the closure of the Morgentaler Clinic in Fredericton, New Brunswick. Since the closure was announced on April 10 rallies have occurred across the country as pro-choice activists demand accessible abortion services for the people of New Brunswick and Prince Edward Island.
