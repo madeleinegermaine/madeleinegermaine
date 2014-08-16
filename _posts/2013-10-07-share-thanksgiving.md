@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Share Thanksgiving 2013
+title: Share Thanksgiving Ottawa
 categories: 
   - activism
   - commission
@@ -15,9 +15,9 @@ published: true
 
 ###Share Thanksgiving Ottawa###
 
-I was City Leader for Share Thanksgiving Ottawa, an organization that pairs new Canadians with established Canadian families for a holiday meal. I ran a successful communications campaign that resulted in coverage from all local television, radio and print media. 
+In 2013, I ran communications for Share Thanksgiving Ottawa, an organization that pairs new Canadians with established Canadian families for a holiday meal. Our campaign resulted in coverage from local television, radio and print media. 
 
-Our organization matched over 80 new Canadian families in its first year in Ottawa.
+Thanks to our media coverage, host family recruitment was a great success. We matched over 80 new Canadian families in our first year in Ottawa.
 
 ###Media clips###
 
