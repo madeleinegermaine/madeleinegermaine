@@ -66,4 +66,4 @@ I participated in a social media campaign to target these politicians. I was the
 
 The exchange seen below is an example of flippant attitude that the current New Brunswick government has for the health of its constituents.
 
-![#NBProChoice twitter exchange](/http://nbprochoice.tumblr.com/image/87023959650)
+![#NBProChoice Twitter Exchange](/http://38.media.tumblr.com/2499db296fc67b83bc36f773766484f6/tumblr_n68z7mMus81tytc7vo1_1280.png)
