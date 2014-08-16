@@ -14,7 +14,7 @@ published: true
 
 ###Ottawa Solidarity Rally for New Brunswick Morgentaler Clinic###
 
-In April 2014, the Fredericton, New Brunswick Morgentaler Clinic announced that they would be forced to close their doors due to lack of funding. 
+In April 2014, the New Brunswick Morgentaler Clinic announced that they would be forced to close their doors due to lack of funding. 
 
 Rallies were organized across the country in solidarity with the people of New Brunswick. 
 
