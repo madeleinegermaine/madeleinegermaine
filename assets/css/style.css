@@ -198,7 +198,7 @@ article.home div a:hover, article.home pre a:hover { color: #8f5536; text-decora
 article img { max-width: 100%; }
 
 section.archive ul {
-	padding-left:o;
+	padding-left:0;
 }
 
 .archive ul li {
