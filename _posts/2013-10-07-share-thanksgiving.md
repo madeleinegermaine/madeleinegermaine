@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Share Thanksgiving Ottawa
+title: Share Thanksgiving
 categories: 
   - activism
   - commission
@@ -13,7 +13,7 @@ fullview: false
 published: true
 ---
 
-###Share Thanksgiving###
+###Share Thanksgiving Ottawa###
 
 I ran communications for Ottawa's first [Share Thanksgiving](http://www.sharethanksgiving.ca/), an event that pairs new Canadians with established Canadian families for a holiday meal. Our campaign resulted in coverage from local television, radio and print media. 
 
