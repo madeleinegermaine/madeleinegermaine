@@ -17,7 +17,9 @@ I was an Ottawa City Leader for Share Thanksgiving, an organization that pairs n
 
 We were able to match over 80 new Canadians, a very high number for the program's first year in the city.
 
-Some media clips from Share Thanksgiving Ottawa, 2013
+
+Media clips
+
 
 [CBC Ottawa Morning Interview - Radio](http://www.cbc.ca/player/AudioMobile/Ottawa%2BMorning/ID/2410987290/)
 
