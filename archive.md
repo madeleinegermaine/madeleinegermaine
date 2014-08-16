@@ -1,41 +1,18 @@
----
-layout: page
-tagline:
----
-
-{% for post in paginator.posts %}
-
-  <article class="home">
-    <header>
-      <h2>
-        <a href="{{ site.BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
-      </h2>
-      <!--  <span class="post-date">
-        {% assign d = post.date | date: "%d" | plus:'0' %}
-        {{ post.date | date: "%B" }}
-        {% case d %}
-        {% when 1 or 21 or 31 %}{{ d }}st,
-        {% when 2 or 22 %}{{ d }}nd,
-        {% when 3 or 23 %}{{ d }}rd,
-        {% else %}{{ d }}th,
-        {% endcase %}
-        {{ post.date | date: "%Y" }}
-      </span>-->
-    </header>
-
-    <div>
-      {% if post.fullview %}
-      {{ post.content }}
-      {% else %}
-      {% if post.shortinfo %}
-      {{ post.shortinfo }}
-      {% elsif post.description %}
-      {{ post.description }}
-      {% else %}
-      {{ post.excerpt }}
+<section id="archive">
+  <h3>This year's posts</h3>
+  {%for post in site.posts %}
+    {% unless post.next %}
+      <ul class="this">
+    {% else %}
+      {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+      {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+      {% if year != nyear %}
+        </ul>
+        <h3>{{ post.date | date: '%Y' }}</h3>
+        <ul class="past">
       {% endif %}
-      {% endif %}
-    </div>
-
-  </article>
-{% endfor %}
+    {% endunless %}
+      <li><time>{{ post.date | date:"%d %b" }}</time><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+  </ul>
+</section>
