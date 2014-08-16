@@ -24,8 +24,8 @@ I wrote the press release and introductory remarks seen below.
 
 ###Press Release###
 
-**NEWS**
-For immediate release
+**NEWS**  
+For immediate release  
 24 April 2014
 
 **Pro-Choice Activists Protest New Brunswick Morgentaler Clinic Closure**
