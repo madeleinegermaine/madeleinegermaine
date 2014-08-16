@@ -21,7 +21,7 @@ published: true
 
 [Metro News - Print](http://metronews.ca/news/ottawa/824182/ottawa-families-welcome-new-canadians-international-students-with-thanksgiving-dinner/)
 
-Share Thanksgiving Ottawa
+#Share Thanksgiving Ottawa#
 
 I was City Leader for Share Thanksgiving Ottawa, an organization that pairs new Canadians with established Canadian families for a holiday meal. I ran a successful communications campaign that resulted in coverage from all local television, radio and print media. 
 
