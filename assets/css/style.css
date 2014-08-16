@@ -1,10 +1,9 @@
 @import url(http://fonts.googleapis.com/css?family=Ubuntu:500&subset=latin,latin-ext);
 
 body{
-	color: #151515;
+  color: #151515;
   background: #F5F5F5;
 }
-
 
 /* ## HEADINGS ## */
 
@@ -197,6 +196,14 @@ a.nav-link:hover { color: #B0B0B0 }
 article.home div a, article.home pre a { color: #6a9fb5; }
 article.home div a:hover, article.home pre a:hover { color: #8f5536; text-decoration: none; }
 article img { max-width: 100%; }
+
+#archive ul {
+	padding-left:none;
+}
+
+#archive ul li {
+	list-style: none;
+}
 
 /* ## NAV vertical tabs component ## */
 
