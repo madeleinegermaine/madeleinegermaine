@@ -13,9 +13,10 @@ fullview: false
 published: true
 ---
 
-_Out of Sight_, young adult fiction from _Some things I remember or know to be true_, a collection of short stories
+Young adult fiction from _Some Things I Remember_, a collection of short stories
 
 --
+###Out of Sight###
 
 “This sucks, Aria. Let’s go.”
 
