@@ -15,7 +15,7 @@ fullview: false
 published: true
 ---
 
-Article for the Canadian Youth Coalition for Sexual and Reproductive Rights (2010)
+_Article for the Canadian Youth Coalition for Sexual and Reproductive Rights (2010)_
 
 --
 
