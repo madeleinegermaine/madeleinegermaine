@@ -1,26 +1,11 @@
 ---
 layout: page
 title: About
+published: true
 ---
 
-Madeleine is an awesome friend and an exemplary human being.
+I am a writer, editor and happy camper from Ottawa, Canada.
 
-She has many talents, including:
+[@bluteau](http://twitter.com/bluteau)
 
-- dancing
-- rapping/singing
-- acting
-
-And more!
-
-## Even more about Madeleine
-
-Some fun facts about Madeleine include:
-
-- She can paddle a canoe in a thunderstorm
-- She has a black belt in napping
-- She can write a quip faster than you can think one!
-
-Have questions or suggestions? Feel free to contact Madeleine.
-
-Thanks for reading!
+[email](mailto://bluteau@gmail.com)
