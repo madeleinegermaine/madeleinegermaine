@@ -119,7 +119,7 @@ article.home h4 a:hover {
 
 footer {
 	padding-top: 15px;
-	font-family: 'Ubuntu';
+	font-family: 'nobileregular';
   color: #999999;
 }
 
@@ -136,7 +136,7 @@ footer {
 
 .sidebar h1 {
     font-size: 2.2em;
-    font-family: 'source_sans_proregular', 'Arial', sans-serif;
+    font-family: 'nobileregular', 'Arial', sans-serif;
 }
 .sidebar-header {
 	text-align: center;
