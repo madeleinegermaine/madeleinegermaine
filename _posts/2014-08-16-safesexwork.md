@@ -1,4 +1,9 @@
 ---
+layout: post
+title: "SafeSexWork.ca"
+categories: [communications]
+tags: [2014, activism, feminism]
+description: Advocacy for Evidence-Based Sex Work Legislation
 published: true
 ---
 
