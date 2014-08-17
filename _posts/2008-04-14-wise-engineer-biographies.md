@@ -14,7 +14,7 @@ fullview: false
 published: true
 ---
 
-_Appeared on Women in Science and Engineering (WISE) Canada website, 2008_
+2008 - Article for _Women in Science and Engineering_ (WISE) Canada
 
 ###Claudette Mackay-Lassonde###
 
