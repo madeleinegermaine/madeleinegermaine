@@ -13,15 +13,19 @@ fullview: false
 published: true
 ---
 
+2012 - Young adult story
+
+--
+
 “This sucks, Aria. Let’s go.”
 
 “I still have half my drink!”
 
 “Bring it with you.”
 
-Julie and Aria started out of the party and into the night. Julie was older than Aria by six months. Aria was the most drunk she had ever been in her life, though she was new at it. Her head was floating. It made her feel older.
+Julie and Aria started out of the party and into the night. Julie was older than Aria by six months. Aria was the most drunk she had ever been in her life, though she was new at it. Her head was floating.
 
-“Where are we going, Jujube? Is this your idea of fun, dragging my ass out into the middle of nowhere? They had buckets full of chips in there. I’m hungry and thirsty!”
+“Where are we going, Jujube? Is this your idea of fun, dragging my ass out into the middle of nowhere? They had buckets full of chips in there.”
 
 Julie pulled a pack of cigarettes out of her sweater pocket. She flipped the top open, pulled out two cigarettes and lit them both with her lighter.
 
