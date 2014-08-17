@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ---
@@ -15,4 +15,3 @@ In the 2013 [Bedford Ruling](http://www.cbc.ca/news/politics/supreme-court-strik
 In 2014, Department of Justice conducted an online survey intended to shore up support for the recriminalization of sex work in Canada.
 
 In response, I created [SafeSexWork.ca](http://safesexwork.ca) with artist/activist [Adam Brown](http://madanworb.com) as a tool to engage local organizations and individuals to learn about the dangers to sex workers under the criminalization model, and to encourage them to complete the survey advocating for complete decriminalization.
-
