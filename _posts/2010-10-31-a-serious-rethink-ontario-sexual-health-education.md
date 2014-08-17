@@ -15,6 +15,11 @@ fullview: false
 published: true
 ---
 
+Article for the Canadian Youth Coalition for Sexual and Reproductive Rights (2010)
+
+--
+###A "serious rethink": the struggle to create sensible sex-education curriculum in Ontario###
+
 This spring, the Ontario Ministry of Education put forth ambitious revisions to its sexual health curriculum for public schools. These updates included age-appropriate information for children, such as teaching anatomically-correct names of body parts to first graders, introducing the concept of “invisible differences” like gender identity in the third grade, and discussing the physical changes of puberty in the sixth grade.
 
 The proposed changes followed a 2009 study by the University of Toronto, York University and Planned Parenthood Toronto that called for comprehensive and age-appropriate sexual health education in Ontario. These changes would have propelled Ontario public schools to the forefront of evidence-based and medically-sound sexual health education programming. 
