@@ -13,7 +13,7 @@ fullview: false
 published: true
 ---
 
-2012 - Young adult story
+2012 - _Out of Sight_, young adult fiction from _Some things I remember or know to be true_, a collection of short stories
 
 --
 
