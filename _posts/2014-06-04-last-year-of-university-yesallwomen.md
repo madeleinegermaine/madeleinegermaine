@@ -14,7 +14,7 @@ fullview: false
 published: true
 ---
 
-My contribution to the [#YesAllWomen](https://storify.com/bluteau/yesallwomen) Twitter outpouring of May 2014.
+My contribution to the [#YesAllWomen](http://www.newyorker.com/culture/culture-desk/the-power-of-yesallwomen) Twitter outpouring of May 2014.
 
 --
 
@@ -127,6 +127,6 @@ There’s nothing wrong with us. We are ok. But we are not safe at work, at home
 
 I want to be able to tell this story better. This is a good start.
 
-###"#YesAllWomen"###
+### #YesAllWomen ###
 
-<div class="storify"><iframe src="//storify.com/bluteau/yesallwomen/embed?header=false&border=false&template=slideshow" width="100%" height=750 frameborder=no allowtransparency=true></iframe><script src="//storify.com/bluteau/yesallwomen.js?header=false&border=false&template=slideshow"></script><noscript>[<a href="//storify.com/bluteau/yesallwomen" target="_blank">View the story "#YesAllWomen" on Storify</a>]</noscript></div>
+<div class="storify"><script src="//storify.com/bluteau/yesallwomen.js?header=false&border=false&template=slideshow"></script><noscript>[<a href="//storify.com/bluteau/yesallwomen" target="_blank">View the story "#YesAllWomen" on Storify</a>]</noscript></div>
