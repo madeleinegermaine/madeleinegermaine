@@ -1,1 +1,0 @@
-![SafeSexWork](/assets/media/safesexwork.png)
